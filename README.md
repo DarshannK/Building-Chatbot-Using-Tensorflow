@@ -6,5 +6,8 @@
 A chatbot is an automated system designed to initiate a conversation with human users.<br>
 It integrates into websites, applications or instant messengers.  
 
+# What is Natural Language Processing?
+Natural Language Processing is the ability of the computer program to understand human language as it spoken and it is a component of artificial intelligence 
+
 
 
