@@ -9,5 +9,9 @@ It integrates into websites, applications or instant messengers.
 # What is Natural Language Processing?
 Natural Language Processing is the ability of the computer program to understand human language as it spoken and it is a component of artificial intelligence 
 
+# Implementation 
+
+1. Go to Google Collab - https://colab.research.google.com/notebooks/intro.ipyn
+2. Create a New Notebook 
 
 
